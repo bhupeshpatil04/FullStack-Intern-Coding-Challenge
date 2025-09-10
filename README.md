@@ -31,6 +31,3 @@
 - Validation is implemented on the backend for required fields; frontend includes basic forms.
 - Sorting/filtering on tables is supported via query params on backend; frontend shows simple lists.
 
-## Files included
-See the zipped project attached.
-
